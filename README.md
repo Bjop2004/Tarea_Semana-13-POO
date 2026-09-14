@@ -1,4 +1,4 @@
-# Restaurante App - Aplicación de Escritorio (Semana 13)
+# Restaurante App - (Semana 13)
 
 Este proyecto corresponde a la **Semana 13** de la materia Programación Orientada a Objetos (POO). Representa la primera versión de la interfaz gráfica de usuario (GUI) desarrollada con **Tkinter**, migrando el sistema base del restaurante desde una aplicación de consola a una arquitectura visual modular.
 
@@ -14,12 +14,6 @@ En esta fase inicial, la aplicación se enfoca únicamente en la gestión e inte
 * **Persistencia de Datos:** Lectura e hidratación de objetos desde archivos JSON (`productos.json` y `usuarios.json`).
 * **Navegación de Ventana Única:** Cambio fluido entre la vista de Login y la vista Principal destruyendo y redibujando marcos (`tk.Frame`) dentro de una sola ventana contenedora.
 * **Cierre de Sesión:** Opción para finalizar la sesión actual y regresar a la pantalla de Login.
-
-### ❌ Funcionalidades Pospuestas (Próximas Versiones)
-* Registro y procesamiento de Ventas (Botón presente en estado *disabled*).
-* Control de Stock e Inventario.
-* Reportes e Índices de Rendimiento.
-* Consultas avanzadas e interfaz de consola anterior.
 
 ---
 

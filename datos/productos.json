@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "categoria": "Comida",
+        "precio": 5.0
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Coca Cola",
+        "categoria": "Bebida",
+        "precio": 1.5
+    }
+]
